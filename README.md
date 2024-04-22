@@ -9,11 +9,9 @@
 - __[Requests](https://www.google.com/search?q=python+requests)__
 
 ## General workflow of this Project:
-![PhonePe Design]([https://github.com/pnraj/Projects/assets/29162796/b97ce7b9-634a-4612-bef7-77369b4a89c6](https://github.com/nafaabdulrahman/phonpe-/blob/main/phonepe.png?raw=true))
-## Dashboard Preview
-<p align="center">
-  <img src="https://github.com/pnraj/Projects/assets/29162796/d183e86b-4d47-4b3a-906f-bb20ea3de9a6" alt="Description of the image">
-</p>
+![PhonePe Design]![image](https://github.com/nafaabdulrahman/phonpe-/assets/118336174/cf19082f-8a08-486c-9385-e1ce1511537c)
+
+
       
 ### PhonePe Pulse Dashboard contains three section:
 
