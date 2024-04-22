@@ -43,7 +43,7 @@
      
 ### The Files in the repo and How they are used in this app
       
-- `dashboard.py` is the Phonepe dashboard app which is built on top off __Streamlit__
+- `io.py` is the Phonepe dashboard app which is built on top off __Streamlit__
 ```py
               bsb1, bsb2,bsb3,bsb4,bsb5,bsb6 = st.columns([2,1,1,1,2,2]) 
               with bsb1:
