@@ -71,7 +71,7 @@
 
 - `data/db.py` is the `sqlite3` file mainly used to query the data from `phonepe.db` file and convert them into `pandas dataframe`
 ``` py
-          url = 'https://raw.githubusercontent.com/pnraj/Projects/master/Phonephe_Pulse/data/phonphe.db'
+          url = 'https://github.com/nafaabdulrahman/phonpe-/raw/main/phonphe.db'
           db_file = wget.download(url)
           conn = sqlite3.connect(db_file)
 
