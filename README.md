@@ -89,15 +89,15 @@
           # Close the connection
           conn.close()
  ```
-> `Data_Preprocessing/db.py` can be used if you want to connect with your `mysql database` which you loaded the Processed PhonePe data  
+> `load.py` can be used if you want to connect with your `mysql database` which you loaded the Processed PhonePe data  
 
 - `geojson` files in `data/` is used for ploting the values
 ```py 
-      url = 'https://github.com/pnraj/Projects/raw/master/Phonephe_Pulse/data/states_india.geojson'
-      response = requests.get(url)
-      with open('states_india.geojson', 'wb') as file:
-          file.write(response.content)
-      india_states = json.load(open('states_india.geojson', "r"))
+      # Path to the local GeoJSON file
+file_path = 'F:/phonpe/data/states_india.geojson' 
+
+# Load GeoJSON file
+india_states = json.load(open(file_path, "r"))
       ## For values refer the dashboard.py
       fig = px.choropleth_mapbox(
         snd,
