@@ -1,4 +1,4 @@
-#  PhonePe Pulse Data Analysis 2018-2022  _[Dashboard](https://pnraj-projects-phonephe-pulsedashboard-y5wmx8.streamlit.app)_
+#  PhonePe Pulse Data Analysis 2018-2022  
 ## Project Requirments:
 - __[Python 3.11](https://www.google.com/search?q=docs.python.org)__ 
 - __[Pandas](https://www.google.com/search?q=python+pandas)__
