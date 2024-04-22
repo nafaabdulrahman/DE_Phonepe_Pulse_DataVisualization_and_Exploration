@@ -12,7 +12,6 @@
 [PhonePe Design]![image](https://github.com/nafaabdulrahman/phonpe-/assets/118336174/cf19082f-8a08-486c-9385-e1ce1511537c)
 
 
-      
 ### PhonePe Pulse Dashboard contains three section:
 
 1.__Overall Geo visualization:__
